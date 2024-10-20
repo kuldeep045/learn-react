@@ -6,7 +6,7 @@ import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } 
 import Home from './components/Home.jsx'
 import About from './components/About.jsx'
 import Contact from './components/Contact.jsx'
-import Layout from './components/layout.jsx'
+import Layout from './components/Layout.jsx'
 import Github, {loaderData} from './components/Github.jsx'
 import User from './components/User.jsx'
 
